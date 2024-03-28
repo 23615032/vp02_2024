@@ -1,0 +1,15 @@
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\bin\Debug\net6.0\016_loop.exe
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\bin\Debug\net6.0\016_loop.deps.json
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\bin\Debug\net6.0\016_loop.runtimeconfig.json
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\bin\Debug\net6.0\016_loop.dll
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\bin\Debug\net6.0\016_loop.pdb
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\016_loop.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\016_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\016_loop.AssemblyInfoInputs.cache
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\016_loop.AssemblyInfo.cs
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\016_loop.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\016_loop.dll
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\refint\016_loop.dll
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\016_loop.pdb
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\016_loop.genruntimeconfig.cache
+C:\Users\konyang\source\repos\vp02_2024\vp02_2024\obj\Debug\net6.0\ref\016_loop.dll
