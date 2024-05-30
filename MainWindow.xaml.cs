@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace _031
+namespace _32
 {
     /// <summary>
     /// MainWindow.xaml에 대한 상호 작용 논리
@@ -23,6 +23,17 @@ namespace _031
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void btnPlay_Click(object sender, RoutedEventArgs e)
+        {
+            game game = new game();
+            game.Show();
+        }
+
+        private void btnQuit_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }
