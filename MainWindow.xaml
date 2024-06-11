@@ -50,7 +50,7 @@
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" Margin="5">
                     <TextBlock Width="80">입사년월:</TextBlock>
-                    <DatePicker x:Name="dpEnte" Width="150"></DatePicker>
+                    <DatePicker x:Name="dpEnter" Width="150"></DatePicker>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" Margin="5">
                     <TextBlock Width="80">퇴사년월:</TextBlock>
@@ -75,17 +75,17 @@
                   Click="btnInsert_Click"/>
                     <TextBlock Width="20"/>
                     <Button x:Name="btnUpdate" Content="Update" Width="100" 
-                  Click="btnUpdate_Click"/>
+                  />
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" Margin="5" 
                     HorizontalAlignment="Center">
-                    <Button x:Name="btnDelete" Content="Delete" Width="100" Click="btnDelete_Click"/>
+                    <Button x:Name="btnDelete" Content="Delete" Width="100" />
                     <TextBlock Width="20"/>
-                    <Button x:Name="btnLoadData" Content="Load Data" Width="100" Click="btnLoadData_Click"/>
+                    <Button x:Name="btnLoadData" Content="Load Data" Width="100"/>
                 </StackPanel>
             </StackPanel>
             <DataGrid x:Name="dataGrid" Margin="5" Width="540"
-                      SelectionChanged="DataGrid_SelectionChanged"></DataGrid>
+                      ></DataGrid>
         </StackPanel>
     </StackPanel>
 </Window>
